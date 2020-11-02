@@ -1,2 +1,2 @@
 # siakad
-sistem informasi akademik politeknik purbaya
+Sistem Informasi Akademik Politeknik Purbaya
